@@ -1,0 +1,2 @@
+1. il y aura surement une diff car accesder a une var puis celle juste apres 
+fait quelle seront deja dans le cache que si on prend des valeur tres espacee

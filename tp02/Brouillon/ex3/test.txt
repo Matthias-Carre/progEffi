@@ -1,0 +1,30 @@
+Timing IJK permutation:
+
+real	0m3,833s
+user	0m3,833s
+sys	0m0,000s
+Timing IKJ permutation:
+
+real	0m3,785s
+user	0m3,781s
+sys	0m0,004s
+Timing KIJ permutation:
+
+real	0m3,913s
+user	0m3,912s
+sys	0m0,000s
+Timing KJI permutation:
+
+real	0m4,530s
+user	0m4,525s
+sys	0m0,004s
+Timing JIK permutation:
+
+real	0m3,717s
+user	0m3,716s
+sys	0m0,000s
+Timing JKI permutation:
+
+real	0m3,949s
+user	0m3,948s
+sys	0m0,000s

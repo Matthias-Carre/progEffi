@@ -1,0 +1,20 @@
+time de matriceMult:
+val random:-2143267776 ; -2111267776
+
+real	0m7,089s
+user	0m7,048s
+sys	0m0,032s
+
+time de deroulage:
+val random:-1436994496 ; -1436994496
+
+real	0m8,208s
+user	0m8,145s
+sys	0m0,044s
+
+time de matriceMultOption:
+val random:-960433088 ; -928433088
+
+real	0m9,992s
+user	0m9,897s
+sys	0m0,048s

@@ -1,0 +1,2 @@
+for i in {1..50} ; do /usr/bin/time -f "%e" -o toto ./matrice-icx.out ; cat toto >> benchicx.data ; done
+

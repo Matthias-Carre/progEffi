@@ -1,0 +1,35 @@
+time de permutation IJK:
+
+real	0m2,220s
+user	0m2,211s
+sys	0m0,008s
+time de permutation IKJ:
+
+real	0m1,276s
+user	0m1,267s
+sys	0m0,008s
+time de permutation JIK:
+
+real	0m4,270s
+user	0m4,265s
+sys	0m0,004s
+time de permutation JKI:
+
+real	0m13,181s
+user	0m13,171s
+sys	0m0,008s
+time de permutation KIJ:
+
+real	0m1,996s
+user	0m1,987s
+sys	0m0,008s
+time de permutation KJI:
+
+real	0m5,177s
+user	0m5,168s
+sys	0m0,008s
+time de multMatriceOption:
+
+real	0m2,240s
+user	0m2,227s
+sys	0m0,012s

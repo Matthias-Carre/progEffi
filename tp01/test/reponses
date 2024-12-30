@@ -1,0 +1,7 @@
+
+
+CPI = Cycle processeur / nbr instruction exec
+
+ICP = 1/ CPI
+
+GFLOPS = nombre op floantantes / f
