@@ -25,13 +25,13 @@ void printC(){
 int main(int argc, char* argv[]){
     for(int i=0; i<N; i++){
         for(int j=0; j<M; j++){
-            A[i][j] = 3.14;
+            A[i][j] = 3.14f;
         }
     }
 
     for(int i=0; i<N; i++){
         for(int j=0; j<P; j++){
-            B[i][j] = 1.62;
+            B[i][j] = 1.62f;
         }
     }
     mult();

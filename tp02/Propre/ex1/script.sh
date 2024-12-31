@@ -19,13 +19,11 @@ fi
 
 
 if [ -f "multMatrice.out" ] && [ -f "deroulage.out" ] && [ -f "multMatriceOption.out" ]; then
-    echo "time de matriceMult:"
+    echo "time de matriceMult:" >&2
     time ./multMatrice.out
-    echo ""
-    echo "time de deroulage:"
+    echo "time de deroulage:" >&2
     time ./deroulage.out
-    echo ""
-    echo "time de matriceMultOption:"
+    echo "time de matriceMultOption:" >&2
     time ./multMatriceOption.out
 else
     echo "Erreur : probleme lors de la compilation des fichiers."
