@@ -1,0 +1,8 @@
+PID = 615252
+PID 615252 CLOSED OR INEXISTENT
+*****************************
+/ECOFLOC_CPU_PID_615252
+*****************************
+Average Power : 0.14 Watts
+Total Energy : 0.14 Joules
+*****************************

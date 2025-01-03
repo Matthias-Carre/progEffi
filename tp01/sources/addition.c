@@ -11,12 +11,20 @@ void add(){
     }
 }
 
+void init(){
+    for(int i=0;i<N;i++){
+        A[i] = i;
+        B[i] = i;
+    }
+}
+
 void printC(){
     printf("val random:%f\n",C[42]);
 }
 
 
 int main(){
+    init();
     printf ("hehe\n");
     add();
     printC();

@@ -1,7 +1,7 @@
 #include <stdio.h>
-#define N 2000
-#define M 2000
-#define P 2000
+#define N 2500
+#define M 2500
+#define P 2500
 
 float A[N][M] , B[N][P] , C[P][M];
 

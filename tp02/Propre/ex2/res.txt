@@ -1,15 +1,15 @@
 time de matriceMult:
 
-real	0m2,220s
-user	0m2,216s
-sys	0m0,004s
+real	0m20,444s
+user	0m20,374s
+sys	0m0,052s
 time de deroulage:
 
-real	0m2,185s
-user	0m2,172s
-sys	0m0,012s
+real	0m19,159s
+user	0m19,090s
+sys	0m0,064s
 time de deroulagefusion:
 
-real	0m4,382s
-user	0m4,373s
-sys	0m0,008s
+real	0m32,526s
+user	0m32,455s
+sys	0m0,064s

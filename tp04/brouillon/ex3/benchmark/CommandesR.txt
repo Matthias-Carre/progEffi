@@ -1,0 +1,12 @@
+G1 <- read.csv("./benchmark-gccO1.txt",header=F)$V1
+G0 <- read.csv("./benchmark-gccO0.txt",header=F)$V1
+G2 <- read.csv("./benchmark-gccO2.txt",header=F)$V1
+G3 <- read.csv("./benchmark-gccO3.txt",header=F)$V1
+Gs <- read.csv("./benchmark-gccOs.txt",header=F)$V1
+I0 <- read.csv("./benchmark-icxO0.txt",header=F)$V1
+I1 <- read.csv("./benchmark-icxO1.txt",header=F)$V1
+I2 <- read.csv("./benchmark-icxO2.txt",header=F)$V1
+I3 <- read.csv("./benchmark-icxO3.txt",header=F)$V1
+Is <- read.csv("./benchmark-icxOs.txt",header=F)$V1
+
+boxplot(G0,G1,G2,G3,Gs,I0,I1,I2,I3,Is,names=c("gcc O0","gcc O1","gcc O2","gcc O3","gcc Os","icx O0","icx O1","icx O2","icx O3","icx Os"),col=c("blue","blue","blue","blue","blue","pink","pink","pink","pink","pink"),ylab="consomation totale en joules",main="consomation totales du programme en fonction des optimisation et du Compilateur")
